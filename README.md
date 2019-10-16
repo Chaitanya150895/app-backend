@@ -51,3 +51,8 @@ framework by default. You can, however, replace it with any other library or
 custom styles.
 "# backend-for-app" 
 "# app-backend" 
+
+
+## Database 
+Tthe database file name is app.sql.
+Find it and import it in a new project of phpmyadmin.
